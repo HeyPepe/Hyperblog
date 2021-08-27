@@ -44,6 +44,7 @@ padding: 0.5em;
 }
 #container h1
 {
+<<<<<<< HEAD
     font-size: 20px;
 }
 
@@ -51,4 +52,15 @@ padding: 0.5em;
 {
     background-color: white;
     padding: 1em;
+=======
+    font-size: 20%;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.2em;
+>>>>>>> a5e198c750b715ffae2ccfa1a3607c1ec3863ff0
 }
